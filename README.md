@@ -1,9 +1,11 @@
 OpenSubtitles.org KODI add-on
 =============================
 Search and download subtitles for movies and TV-Series from OpenSubtitles.org. Search in 75 languages, 4.000.000+ subtitles, daily updates.
-                            
+
 Changelog
 
+6.0.0
+- Fix pt_BR support
 
 5.0.16
 - Changed descriptions, icons, fanart... (by opensubtitles)
